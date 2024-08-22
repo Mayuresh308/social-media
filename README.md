@@ -1,6 +1,9 @@
-[LIVE](https://social-media-frontend-virid.vercel.app/home)
+[LIVE](https://social-media-frontend-virid.vercel.app/home)  [Backend](https://github.com/Mayuresh308/social-media-backend.git)
 
-[Backend](https://github.com/Mayuresh308/social-media-backend.git)
+--------------------------------------------------------------------------
+Demo Video
+https://github.com/user-attachments/assets/4848f3be-ed69-4bf5-abd3-d656ab066bb9
+------------------------------------------------------------------------------
 
 ![1](https://github.com/user-attachments/assets/07c831d7-89c0-4213-bc18-c3a1f6e68214)
 -------------------------------------------------------------------------------------
