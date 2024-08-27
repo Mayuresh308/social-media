@@ -1,4 +1,4 @@
-[LIVE](https://social-media-frontend-virid.vercel.app/home) <br  />          [Backend](https://github.com/Mayuresh308/social-media-backend.git)
+[LIVE](https://social-media-frontend-virid.vercel.app/home) <br  />     $|$     [Backend](https://github.com/Mayuresh308/social-media-backend.git) /n
 credentials for login
 id : peter@gmail.com
 password : peter
