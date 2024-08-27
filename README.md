@@ -1,5 +1,7 @@
 [LIVE](https://social-media-frontend-virid.vercel.app/home) <br  />          [Backend](https://github.com/Mayuresh308/social-media-backend.git)
-
+credentials for login
+id : peter@gmail.com
+password : peter
 --------------------------------------------------------------------------
 [Demo Video](
 https://github.com/user-attachments/assets/a3691764-22ab-4737-abde-aa40efe565de)
